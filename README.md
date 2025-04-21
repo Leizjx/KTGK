@@ -7,3 +7,4 @@ The above project is implemented in these steps:
 -Step 2: Write the following statement : npm init playwright@latest and you have a project example with code testing playwright and if you want you can testing with this project that.
 -Step 3: You can create another folder outside the available folder to check it in the tests folder
 -Step 4: Run command test basic above and terminal notice code pass or code fail
+Copyright belongs to Ngoc Phuc
